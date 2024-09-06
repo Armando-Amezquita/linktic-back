@@ -1,0 +1,9 @@
+{
+  "app": {
+      "port": 3000,
+      "secretKey": "mysecretkey"
+    },
+    "db": {
+      "connectionString": "mongodb://localhost:27017/mydb"
+    }
+}
